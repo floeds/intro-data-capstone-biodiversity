@@ -1,0 +1,32 @@
+Sheet 1: 
+Hello, everyone! My name is Inge van den Boomen and in the past few weeks I’ve been working hard to analyse the data given to me by the National Parks. 
+
+Sheet 2: 
+In this presentation I will present the following information:
+First I will show you a general distribution of the data given to me. 
+Next we will see how many percent of species are protected.
+After that a table will be shown with the p-values between those percentages. If you don’t know yet what that means, I will explain it there.
+Besides the data about protected species, I have received data about sheep observations. We will look at the amount of sheep observations at different National Parks.
+We will look at the observations per week at every park to be able to calculate how long it will take to do a certain research. More about that later.
+
+Sheet 3: 
+As stated I would start at showing a general distribution of the data. In this bar chart you see the data given in the table next to it. Luckily, you can see that most species don’t need any interventions as of now. 
+
+Sheet 4:
+However, as you can see here, in some classes there is a quite high percentage of protected species. The explanation for this is the following: there are a lot more Vascular Plants than there are species in other classes. Since Vascular Plants don’t get the protected status very often, most of the protected species are in classes with fewer species. This makes the percentage higher than perhaps expected after the previous bar chart.
+
+Sheet 5:
+To make the information clearer, I made the following table with p-values. Whenever the p-value given is lower than 0.05, the green values, you could say there is a significant difference between the percentage of protected species between the two classes given. For example: there is a significant difference between the percentage protected mammals and reptiles, because the p-value of 0.038356 is lower than 0.05.
+The order of the table is so that the highest percentage of protected species are first (mammal) and it declines to the lowest percentage (vascular plant). This means that when there is a significant difference between two classes, the class coming first may need significantly more attention from the National Parks.
+
+Sheet 6:
+Onto the sheep observations. In this table you can see how many sheep observations have been done at the four National Parks. 
+
+Sheet 7:
+Last year it was recorded that 15% of sheep at Bryce National Park have foot and mouth disease. This means the baseline is 15%.
+The scientists want to be able to detect reductions of at least 5%. Combined with the baseline of 15%, this gives a minimum detectable effect of 33.3%.
+With a significance of 90% the sample size needs to be 890.
+In Yellowstone National Park this would take approximately 12 days.
+In Bryce National Park this would take approximately 25 days. 
+--
+I’d like to thank you all for listening (reading) this presentation. I hope the information was all very clear. If there are questions about the data I’d love to answer them!
